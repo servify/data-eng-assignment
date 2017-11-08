@@ -4,8 +4,8 @@
 
 You are required to perform the following tasks in the assignment:
 
-1. Get the dataset from the following location:
-    - Host: `52.66.79.237`. Port: 3306
+1. Access the data from the DB by connecting to the database at the following location:
+    - Host: `52.66.79.237`. Port: `3306`
     - The database credentials will be sent to you separately.
 2. Read in the datasets. Use the [data_dictionary.md](data_dictionary.md) file to understand what each field means.
     - The dataset is constantly updated like a real-life DB would be.
