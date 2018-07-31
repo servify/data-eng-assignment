@@ -21,7 +21,8 @@ You are required to perform the following tasks in the assignment:
 6. Share the code and documentation  as a private gitlab or github repo.
 7. We prefer that you process as much of the data & metrics in Kafka. You can use features such as `Kafka Streams` and `KSQL`.
 8. You have 1 week to complete the assignment.
-9. You can raise any questions you have in the issues on the github repo. Also check closed issues on the repo before you ask questions.
+9. Additionally, please come up with a warehouse design to store the date from the various tables for fast and efficient analytical processing. You can suggest any kind of data store, keeping in mind that the end usage is analytics.
+10. You can raise any questions you have in the issues on the github repo. Also check closed issues on the repo before you ask questions.
 
 Notes:
 ---
